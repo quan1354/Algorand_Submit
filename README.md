@@ -3,7 +3,7 @@
 # Team 8 : Chain Chain Team
 Member 1: Chuah Jing Quan
 
-Member 2: Name: Chan Pei Ying
+Member 2: Chan Pei Ying
 
 Member 3: Willian Foh Wei Lian
 
