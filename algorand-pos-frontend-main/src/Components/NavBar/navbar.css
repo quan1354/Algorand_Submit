@@ -1,0 +1,29 @@
+#nav_bar{
+    width:100%;
+    align-items:center;
+    justify-items:center;
+    display:flex;
+    flex-direction: row;
+    padding:0;
+    margin: 0;
+}
+
+.nav_block{
+    flex-grow:1;
+    background-color: #fc7945aa;
+    padding: 25px 0px;
+    font-size: 30px;
+    text-align: center;
+    border:0px;
+}
+
+.nav_block:hover{
+    background-color: #fc7945;
+}
+
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
